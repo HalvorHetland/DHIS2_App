@@ -1,3 +1,7 @@
+Husk å alltid kjør:
+
+npx dhis-portal --target=https://data.research.dhis2.org/in5320/
+
 This project was bootstrapped with [DHIS2 Application Platform](https://github.com/dhis2/app-platform).
 
 ## Available Scripts
